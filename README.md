@@ -51,3 +51,5 @@ Please enter the number of properties to scrape: 10
 
 ## Sample Output
 
+You can download the CSV file [here](https://raw.githubusercontent.com/njolnir/lamudiscraper/main/data/scraped/full/cavite_condo.csv).
+
