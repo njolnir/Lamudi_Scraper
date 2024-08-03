@@ -44,7 +44,7 @@ The scraper can be used to fetch CONDOMINIUM property listings from Lamudi's web
 
 Example usage:
 ```sh
-Please enter the province: Cebu
+Please enter the province: cavite
 Please enter the property type: condo
 Please enter the number of properties to scrape: 10
 ```
