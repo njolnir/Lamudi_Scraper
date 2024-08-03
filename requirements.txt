@@ -1,0 +1,9 @@
+pandas
+numpy
+time
+requests
+json
+bs4
+re
+tqdm
+collections
